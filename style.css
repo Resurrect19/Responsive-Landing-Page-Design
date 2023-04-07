@@ -38,10 +38,20 @@ body{
     padding: 3rem;
     font-size: 3rem;
 }
-
-
-
-
+.menu-img{
+    height: 30vh;
+}
+.menu-btn{
+    width: 30%;
+    padding: .5rem;
+    justify-content: center;
+}
+.box{
+    height: 70vh;
+}
+#image{
+    width: 80rem;
+}
 
 
 
