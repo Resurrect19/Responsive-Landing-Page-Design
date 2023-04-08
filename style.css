@@ -52,10 +52,41 @@ body{
 #image{
     width: 80rem;
 }
-
-
-
-
+#menu-card{
+    font-size: 1.5rem;
+}
+#menu-card h1{
+    font-size: 3.5rem;
+    line-height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+#menu-card h1 span{
+    font-size: 4rem;
+}
+#menu-card h4{
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+}
+#menu-card p{
+    line-height: 3rem;
+}
+#image-card{
+    width: 100rem;
+}
+#card-img{
+    height: 40vh;
+    width: 50rem;
+}
+#card-content{
+    line-height: 3rem;
+}
+#card-content h1{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
 
 
 
