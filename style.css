@@ -42,16 +42,16 @@ body{
     height: 30vh;
 }
 .menu-btn{
-    width: 30%;
-    padding: .5rem;
+    /* width: 30%;
+    padding: .5rem; */
     justify-content: center;
 }
 .box{
     height: 70vh;
 }
-#image{
+/* #image{
     width: 80rem;
-}
+} */
 #menu-card{
     font-size: 1.5rem;
 }
@@ -73,12 +73,10 @@ body{
 #menu-card p{
     line-height: 3rem;
 }
-#image-card{
-    width: 100rem;
-}
+
 #card-img{
-    height: 40vh;
-    width: 50rem;
+    height: 41.5vh;
+    min-width: 22rem;
 }
 #card-content{
     line-height: 3rem;
@@ -89,6 +87,8 @@ body{
 }
 .img-box{
     width: 35rem;
-    height: 25rem;
+    /* height: 25rem; */
+    
 }
+
 
